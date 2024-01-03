@@ -1,3 +1,4 @@
+jupyter
 deepface
 numpy
 pandas
