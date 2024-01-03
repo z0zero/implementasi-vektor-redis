@@ -1,0 +1,5 @@
+deepface
+numpy
+pandas
+redis
+scikit-learn
